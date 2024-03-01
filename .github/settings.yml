@@ -1,4 +1,4 @@
 _extends: manjaro-contrib/.github
 repository:
   homepage: https://aur.archlinux.org/swayshot.git
-  topics: arch, package, any
+
