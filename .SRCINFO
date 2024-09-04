@@ -1,6 +1,6 @@
 pkgbase = swayshot
 	pkgdesc = Sway screenshots: screen, window or region. Also it uploads them to 0x0.st.
-	pkgver = 2.7.3
+	pkgver = 2.7.4
 	pkgrel = 5
 	url = https://github.com/vitalijr2/swayshot
 	arch = any
@@ -17,8 +17,7 @@ pkgbase = swayshot
 	optdepends = libnotify: show message with path or URL
 	conflicts = swaygrab-helper
 	backup = etc/sway/config.d/swayshot.conf
-	source = https://github.com/vitalijr2/swayshot/archive/refs/tags/2.7.3.tar.gz
-	md5sums = 2434abe6b62780e4466226db3de35b99
-	sha256sums = a9cd5b4b9741fd10c350d905c8e0a0449637c3f322febcdf09f7000c2aeba1f2
+	source = https://github.com/vitalijr2/swayshot/archive/refs/tags/2.7.4.tar.gz
+	sha256sums = 84a0b6881ab687bcde4eb3b567c1d664b5aaf9391df9f6903581ee70d5c4bcd7
 
 pkgname = swayshot
